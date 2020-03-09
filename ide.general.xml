@@ -26,6 +26,6 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.borderless.title.debug" value="true" />
     <entry key="ide.title.debug" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
