@@ -1,4 +1,5 @@
 <keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="ActivateStructureToolWindow" />
   <action id="EditorLookupUp" />
   <action id="MembersPullUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
