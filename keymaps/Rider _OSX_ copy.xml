@@ -1,0 +1,3 @@
+<keymap version="1" name="Rider (OSX) copy" parent="Rider OSX">
+  <action id="ActivateStructureToolWindow" />
+</keymap>
